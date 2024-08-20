@@ -6,7 +6,7 @@ const textoResultado = document.querySelector('.texto-resultado');
 
 const perguntas = [
     {
-        enunciado: "O mais novo piloto Kaio O'Conner acaba de completar 16 anos, e ganhar sua primeira corrida de drift como piloto junior. Para comemorar e incentivar seu filho, o mada escoler entre dois carro",
+        enunciado: "O mais novo piloto Kaio O'Conner acaba de completar 16 anos, e ganhar sua primeira corrida de drift como piloto junior. Para comemorar e incentivar seu filho, o mada escolher entre dois carro",
         alternativas: [
             {
                 texto:"skyline r32",
